@@ -1,4 +1,4 @@
 window.APP_CONFIG = {
-  SUPABASE_URL: 'YOUR_SUPABASE_PROJECT_URL',
-  SUPABASE_ANON_KEY: 'YOUR_SUPABASE_ANON_KEY'
+  SUPABASE_URL: 'https://sjdgzztcpexkmubbcbkz.supabase.co',
+  SUPABASE_ANON_KEY: 'sb_publishable_jfVCWLWgrKgh5Sxa5OTaYQ_xu2Ipni0'
 };
